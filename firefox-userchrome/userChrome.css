@@ -1,9 +1,14 @@
+/*
+ *    GaugeK's userChrome.css
+ *    github.com/GaugeK/dots
+ */
+
 :root {
 	/*  ----  */
-	--bg0:      #262727;
-	--bg1:      #262727;
+	--bg0:      #1c1b1d;
+	--bg1:      #1c1b1d;
 	--bg2:      #9e736a;
-	--bg3:      #262727;
+	--bg3:      #1c1b1d;
 	--bg4:      #f0d3c9;
 	--button:   #bbbbbf1a;
 	/*  ----  */

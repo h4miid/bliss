@@ -19,12 +19,12 @@ menu.border.color: #F0D3C9
 !! menu headers
 menu.title.bg: flat
 menu.title.bg.color: #F0D3C9
-menu.title.text.color: #262727
+menu.title.text.color: #1c1b1d
 menu.title.text.justify: center
 
 !! selected menu item
 menu.items.active.bg: flat
-menu.items.active.bg.color: #262727
+menu.items.active.bg.color: #1c1b1d
 menu.items.active.text.color: #f0d3c9
 
 !! titlebar

@@ -3,7 +3,7 @@ syntax reset
 let g:colors_name = "bliss"
 set background=dark
 set t_Co=256
-hi Normal guifg=#f0d3c9 ctermbg=NONE guibg=#262727 gui=NONE
+hi Normal guifg=#f0d3c9 ctermbg=NONE guibg=#1c1b1d gui=NONE
 
 hi DiffText guifg=#de9dac guibg=NONE
 hi ErrorMsg guifg=#de9dac guibg=NONE
@@ -59,18 +59,18 @@ hi Operator guifg=#9dccde guibg=NONE
 hi cssAttr guifg=#9dccde guibg=NONE
 
 
-hi Pmenu guifg=#f0d3c9 guibg=#393b3b
-hi SignColumn guibg=#262727
+hi Pmenu guifg=#f0d3c9 guibg=#302e31
+hi SignColumn guibg=#1c1b1d
 hi Title guifg=#f0d3c9
-hi LineNr guifg=#635050 guibg=#262727
-hi NonText guifg=#635050 guibg=#262727
+hi LineNr guifg=#635050 guibg=#1c1b1d
+hi NonText guifg=#635050 guibg=#1c1b1d
 hi Comment guifg=#635050 gui=italic
-hi SpecialComment guifg=#635050 gui=italic guibg=#262727
-hi CursorLine guibg=#393b3b
-hi TabLineFill gui=NONE guibg=#393b3b
-hi TabLine guifg=#b95634 guibg=#393b3b gui=NONE
-hi StatusLine gui=bold guibg=#393b3b guifg=#f0d3c9
-hi StatusLineNC gui=NONE guibg=#262727 guifg=#f0d3c9
+hi SpecialComment guifg=#635050 gui=italic guibg=#1c1b1d
+hi CursorLine guibg=#302e31
+hi TabLineFill gui=NONE guibg=#302e31
+hi TabLine guifg=#b95634 guibg=#302e31 gui=NONE
+hi StatusLine gui=bold guibg=#302e31 guifg=#f0d3c9
+hi StatusLineNC gui=NONE guibg=#1c1b1d guifg=#f0d3c9
 hi Search guibg=#635050 guifg=#f0d3c9
-hi VertSplit gui=NONE guifg=#393b3b guibg=NONE
-hi Visual gui=NONE guibg=#393b3b
+hi VertSplit gui=NONE guifg=#302e31 guibg=NONE
+hi Visual gui=NONE guibg=#302e31
