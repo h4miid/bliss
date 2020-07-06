@@ -4,6 +4,7 @@
 <h3 align="center">Inspired by the <a href="https://dixiemech.com/sabliss">SA Bliss</a> keycap set.
 
 ***
+
 <p align="center"
 
 ![img](scrots/desktop.png)
@@ -14,7 +15,11 @@
 
 <h3 align="center">Vim Colorscheme.</h3>
 
+<p align="center"
+
 ![img](scrots/neovim.png)
+
+</p>
 
 <h4 align=center>Dark base with soft contrast for hours of painless work.</h4>
 
