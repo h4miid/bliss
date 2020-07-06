@@ -1,4 +1,8 @@
+<p align="center"
+
 ![img](scrots/bliss-text.png)
+
+</p>
 
 <h1 align="center">An easy-on-the-eyes, all purpose colorscheme for the poweruser.</h1>
 <h3 align="center">Inspired by the <a href="https://dixiemech.com/sabliss">SA Bliss</a> keycap set.
