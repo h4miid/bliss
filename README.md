@@ -9,11 +9,11 @@
 
 ***
 
-<p align="center"
 
 ![img](scrots/desktop.png)
 
-</p>
+![img](scrots/colorpallete.png)
+
 
 ***
 
