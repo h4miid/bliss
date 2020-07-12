@@ -1,6 +1,6 @@
 <p align="center"
 
-![img](scrots/bliss-text.png)
+![Imgur](https://i.imgur.com/7pRwvfc.png)
 
 </p>
 
