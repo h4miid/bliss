@@ -1,4 +1,4 @@
-<h1 align="center>ANNOUNCEMENT: BIG CHANGES ARE COMING TO THIS REPO, PLEASE WAIT IF YOU WANT TO USE THIS SCHEME, IF YOU ARE FINE WITH IT'S CURRENT STATE GO AHEAD BUT TRUST ME YOU WILL NOT REGRET WAITING!</h1>
+<h1 align="center">Big changes coming soon! Repo is semi-deprecated for now. (1 day remaining)</h1>
 
 <p align="center"
 
